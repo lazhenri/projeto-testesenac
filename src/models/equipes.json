@@ -1,0 +1,37 @@
+[
+    {
+        "id" : 1,
+        "País": "Inglaterra",
+        "Equipe": "Manchester United",
+        "Titulos": 68,
+        "Favorito?": true
+    },
+    {
+        "id" : 21,
+        "País": "Françaa",
+        "Equipe": "PSG",
+        "Titulos": 45,
+        "Favorito?": true
+    },
+    {
+        "id" : 3,
+        "País": "Brasil",
+        "Equipe": "Sport Recife",
+        "Titulos": 3,
+        "Favorito?": true
+    },
+    {
+        "id" : 4,
+        "País": "Espanha",
+        "Equipe": "Atletico de Madrid",
+        "Titulos": 33,
+        "Favorito?": true
+    },
+    {
+        "id" : 5,
+        "País": "Alemanha",
+        "Equipe": "Borussia Dortmund",
+        "Titulos": 22,
+        "Favorito?": true
+    }
+]
